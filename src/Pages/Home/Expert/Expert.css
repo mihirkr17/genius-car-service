@@ -1,0 +1,10 @@
+.expert_btn {
+   background-color: transparent;
+   color: black;
+   border: none;
+}
+
+.expert_btn:hover {
+   color: hotpink;
+   background: unset;
+}
